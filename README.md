@@ -7,6 +7,6 @@
 <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-linkedin-social-media-justicon-lineal-color-justicon.png" width="80">
 </a>
 
-<a title="gabrielrrtolkien@gmail.com" href="mailto:brenodonascimentosilvaa@gmail.com">
+<a title="gabrielrrtolkien@gmail.com" href="mailto:gabrielrrtolkien@gmail.com">
 <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-gmail-social-media-justicon-lineal-color-justicon.png" width="80">
 </a>
